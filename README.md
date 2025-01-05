@@ -1,2 +1,3 @@
 # WholesaleAnalysis
-Tugas akhir PTI SIF 11
+"Analisis Pelanggan Wholesale- Kelompok
+ 1"
